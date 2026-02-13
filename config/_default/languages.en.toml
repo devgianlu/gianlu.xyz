@@ -12,8 +12,7 @@ title = "devgianlu"
 [author]
  name = "Gianluca Altomani"
  image = "img/profile_photo.jpg"
- headline = "Backend developer & CTF player"
- bio = "Backend developer interested in cybersecurity and reverse engineering"
+ headline = "Software Developer | IoT research | CTF player"
  links = [
    { email = "mailto:altomanigianluca@gmail.com" },
    { github = "https://github.com/devgianlu" },

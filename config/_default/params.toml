@@ -11,7 +11,7 @@ disableImageOptimization = true
   layout = "basic"
 
 [footer]
-  showMenu = true
+  showMenu = false
   showCopyright = true
   showThemeAttribution = true
   showAppearanceSwitcher = true
@@ -20,72 +20,10 @@ disableImageOptimization = true
 [homepage]
   layout = "profile"
   showRecent = false
-  showRecentItems = 5
   showMoreLink = false
-  showMoreLinkDest = "/posts"
   cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = false
-
-[article]
-  showDate = true
-  showViews = false
-  showLikes = false
-  showDateUpdated = false
-  showAuthor = true
-  showHero = false
-  layoutBackgroundBlur = true
-  layoutBackgroundHeaderSpace = true
-  showBreadcrumbs = false
-  showDraftLabel = true
-  showEdit = false
-  editAppendPath = true
-  seriesOpened = false
-  showHeadingAnchors = true
-  showPagination = true
-  invertPagination = false
-  showReadingTime = true
-  showTableOfContents = false
-  showTaxonomies = false
-  showAuthorsBadges = false
-  showWordCount = true
-
-[list]
-  showHero = false
-  layoutBackgroundBlur = true
-  layoutBackgroundHeaderSpace = true
-  showBreadcrumbs = false
-  showSummary = false
-  showViews = false
-  showLikes = false
-  showTableOfContents = false
-  showCards = false
-  groupByYear = true
-  cardView = false
-  cardViewScreenWidth = false
-  constrainItemsWidth = false
-
-[sitemap]
-  excludedKinds = ["taxonomy", "term"]
-
-[taxonomy]
-  showTermCount = true
-  showHero = false
-  showBreadcrumbs = false
-  showViews = false
-  showLikes = false
-  showTableOfContents = false
-  cardView = false
-
-[term]
-  showHero = false
-  showBreadcrumbs = false
-  showViews = false
-  showLikes = false
-  showTableOfContents = true
-  groupByYear = false
-  cardView = false
-  cardViewScreenWidth = false
 
 [buymeacoffee]
   identifier = "devgianlu"
